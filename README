@@ -1,0 +1,4 @@
+This is my .conkyrc which is based on the default crunchbang .conkyrc file.
+It uses a python scripts that checks for unread messages which can be found here: http://stackoverflow.com/a/3984850
+Copy that script to ~/.config/conky/scripts/gmail-unread.py and it should work.
+To show the "Now playing" part, you should have mpd (or mopidy) running.
